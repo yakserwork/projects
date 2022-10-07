@@ -1,5 +1,5 @@
 # Исследование сервиса Яндекс Музыка
-[Исследование сервиса Яндекс Музыка](https://github.com/yakserwork/projects/blob/155e61205a7f7ae9453c8538219bd2b1c592b7fb/yandex-music/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.ipynb)
+[ipynb](https://github.com/yakserwork/projects/blob/155e61205a7f7ae9453c8538219bd2b1c592b7fb/yandex-music/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.ipynb)
 
 ## Описание проекта
 На данных Яндекс.Музыки необходимо сравнить поведение и предпочтения пользователей из Москвы и Санкт-Петербурга.
