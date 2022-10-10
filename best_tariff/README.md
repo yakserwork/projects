@@ -1,4 +1,4 @@
-# Определение перспективного тарифа для телеком-компании
+# Ислледование для телеком-компании
 [Файл проекта (Jupiter Notebook)](https://github.com/yakserwork/projects/blob/main/best_tariff/best_tariff.ipynb)
 
 
