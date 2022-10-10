@@ -1,7 +1,5 @@
 # Исследование сервиса Яндекс Музыка
-[ipynb](https://github.com/yakserwork/projects/blob/3b4889409538d58f7235149388bdace14b8f3e14/yandex-music/yandex-music.ipynb)
-
-[html](https://github.com/yakserwork/projects/blob/3b4889409538d58f7235149388bdace14b8f3e14/yandex-music/yandex-music.html)
+[Файл проекта (Jupiter Notebook)](https://github.com/yakserwork/projects/blob/3b4889409538d58f7235149388bdace14b8f3e14/yandex-music/yandex-music.ipynb)
 
 ## Описание проекта
 На данных Яндекс Музыки необходимо сравнить поведение и предпочтения пользователей из Москвы и Санкт-Петербурга.
