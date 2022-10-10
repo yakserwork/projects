@@ -1,5 +1,5 @@
 # Исследование надёжности заёмщиков
-[Файл проекта (Jupiter Notebook)](https://github.com/yakserwork/projects/blob/3b4889409538d58f7235149388bdace14b8f3e14/bank_loans/bank_loans.ipynb)
+[Файл проекта (Jupiter Notebook)](https://github.com/yakserwork/projects/blob/main/bank_loans/bank_loans.ipynb)
 
 ## Описание проекта
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.
